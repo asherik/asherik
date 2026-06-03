@@ -37,8 +37,8 @@
 
 Pet projects:
 
-- **Chatly** — локальный AI-ассистент для компьютера с памятью и инструментами
-- **Humanoid Robot Chatly** — прототипирование, robotics, IoT
+- **Chatly** — локальный AI-ассистент для компьютера с памятью и инструментами (https://chatly.ru)
+- **Humanoid Robot Chatly** — прототипирование, robotics, IoT (https://habr.com/ru/articles/1042178/)
 
 ## Стек
 
