@@ -1,55 +1,104 @@
-# Ашот Агабеков
+# Ashot Agabekov
 
-**Java Backend Engineer** с фокусом на backend-разработку, микросервисную архитектуру, интеграции и production-ready системы.
+## Senior Java Backend Engineer
 
-Работаю с Java, Spring Boot, Kafka, PostgreSQL, Redis, Keycloak, Docker и Kubernetes.
+Java Backend Engineer focused on backend development, microservices architecture, integrations, and production-ready systems.
 
-## Основная экспертиза
+I work with Java, Spring Boot, Kafka, PostgreSQL, Redis, Keycloak, Docker, and Kubernetes.
 
-- Backend-разработка на Java / Spring Boot
-- Проектирование микросервисной архитектуры
-- Декомпозиция монолитных систем
-- Kafka-based интеграции и event-driven подход
-- Оптимизация PostgreSQL и кеширование через Redis
-- Keycloak, OAuth2, OpenID Connect, OpenAM
-- CI/CD, Docker, Kubernetes, ArgoCD
-- Observability: Prometheus, Grafana, Graylog
-- Production support, релизы и закрытие security-уязвимостей
+## Core Expertise
 
-## Опыт
+- Backend development with Java and Spring Boot
+- Microservices architecture design
+- Monolith decomposition and modernization
+- Kafka-based integrations and event-driven systems
+- PostgreSQL optimization and Redis caching
+- Keycloak, OAuth2, OpenID Connect, and OpenAM
+- CI/CD, Docker, Kubernetes, and ArgoCD
+- Observability with Prometheus, Grafana, and Graylog
+- Production support, release management, and security remediation
 
-В **СберКорус** участвовал в разработке сервиса машиночитаемых доверенностей: хранение, обработка и выдача данных по требованиям ФНС.
+## Experience
 
-Ключевые результаты:
-- Спроектировал backend-архитектуру с Kafka, PostgreSQL и S3
-- Внедрил кеширование через Redis
-- Добавил retry-механизмы и защиту от сбоев при интеграциях
-- Настроил мониторинг и логи: Prometheus, Grafana, Graylog
-- Перевёл аутентификацию с OpenAM на Keycloak
-- Поддерживал CI/CD, production-релизы и деплой-планы
-- Участвовал в сканированиях безопасности SAST, DAST и закрытии уязвимостей
+At **SberKorus**, I contributed to the development of a machine-readable power of attorney (MPOA) platform used for storing, processing, and providing data in compliance with Russian Federal Tax Service requirements.
 
-Также разрабатывал backend-платформу для банковской системы проверки автомобилей по VIN: сбор и нормализация данных, REST API и интеграции с внутренними банковскими системами.
+### Key Achievements
 
-## R&D и pet projects
+- Designed backend architecture based on Kafka, PostgreSQL, and S3
+- Implemented Redis-based caching
+- Added retry mechanisms and resilience patterns for external integrations
+- Set up monitoring and logging using Prometheus, Grafana, and Graylog
+- Migrated authentication from OpenAM to Keycloak
+- Supported CI/CD pipelines, production releases, and deployment planning
+- Participated in SAST and DAST security assessments and vulnerability remediation
 
-Помимо коммерческой backend-разработки, интересуюсь AI tooling, local-first AI, RAG, агентными системами и автоматизацией разработки.
+I also worked on a backend platform for a banking vehicle verification system based on VIN numbers, including data aggregation, normalization, REST APIs, and integrations with internal banking services.
 
-Pet projects:
+## R&D and Pet Projects
 
-- **Chatly** — локальный AI-ассистент для компьютера с памятью и инструментами (https://chatly.ru)
-- **Humanoid Robot Chatly** — прототипирование, robotics, IoT (https://habr.com/ru/articles/1042178/)
+In addition to commercial backend development, I am interested in AI tooling, local-first AI, Retrieval-Augmented Generation (RAG), autonomous agents, and developer productivity automation.
 
-## Стек
+### Chatly
 
-**Backend:** Java 17/21, Spring Boot, Hibernate, REST API  
-**Messaging:** Kafka  
-**Databases:** PostgreSQL, Redis, NoSQL  
-**Auth:** Keycloak, OAuth2, OpenID Connect, OpenAM  
-**DevOps:** Docker, Kubernetes, GitLab CI/CD, ArgoCD, Nginx  
-**Observability:** Prometheus, Grafana, Graylog  
-**AI/R&D:** RAG, local LLMs, agents, AI tooling
+Local AI assistant for desktop environments with memory and tool integrations.
 
-Связь со мной:
+- Website: https://chatly.ru
 
-Telegram: @aseriks
+### Humanoid Robot Chatly
+
+Robotics, IoT, and humanoid robot prototyping project.
+
+- Article: https://habr.com/ru/articles/1042178/
+
+## Technology Stack
+
+### Backend
+
+- Java 17 / 21
+- Spring Boot
+- Hibernate
+- REST APIs
+
+### Messaging
+
+- Kafka
+
+### Databases
+
+- PostgreSQL
+- Redis
+- NoSQL databases
+
+### Authentication & Security
+
+- Keycloak
+- OAuth2
+- OpenID Connect
+- OpenAM
+
+### DevOps
+
+- Docker
+- Kubernetes
+- GitLab CI/CD
+- ArgoCD
+- Nginx
+
+### Observability
+
+- Prometheus
+- Grafana
+- Graylog
+
+### AI & R&D
+
+- RAG
+- Local LLMs
+- AI Agents
+- AI Tooling
+
+## Contact
+
+- Telegram: @aseriks
+- GitHub: https://github.com/asherik
+- Website: https://ashotagabekov.ru
